@@ -1,5 +1,5 @@
 {
-  "idx": 0,
+  "idx": 460,
   "list": "",
   "phrases": [
     {
@@ -1609,6 +1609,10 @@
     {
       "en": "They were opposed to the divorce.",
       "pt": "Eles eram contra o divórcio."
+    },
+    {
+      "en": "The singer walked onto the black stage.",
+      "pt": "O cantor caminhou até o palco preto."
     }
   ],
   "tags": {
@@ -1642,7 +1646,6 @@
     "sell": "known",
     "event": "known",
     "building": "known",
-    "stage": "known",
     "sometimes": "known",
     "accept": "known",
     "town": "known",
@@ -1827,5 +1830,5 @@
     "ton": "hard",
     "juice": "known"
   },
-  "timestamp": "2026-02-17T02:32:52.766Z"
+  "timestamp": "2026-02-17T02:35:07.081Z"
 }
