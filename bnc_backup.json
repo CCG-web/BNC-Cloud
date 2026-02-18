@@ -1,6 +1,6 @@
 {
   "idx": 0,
-  "list": "",
+  "list": "The financial district. | O distrito/bairro financeiro.\n",
   "phrases": [
     {
       "en": "The original plan was better",
@@ -1613,6 +1613,18 @@
     {
       "en": "The singer walked onto the black stage.",
       "pt": "O cantor caminhou até o palco preto."
+    },
+    {
+      "en": "It’s important to maintain your investment.",
+      "pt": "É importante manter seu investimento."
+    },
+    {
+      "en": "He had to save money suddenly.",
+      "pt": "Ele precisou economizar dinheiro de repente."
+    },
+    {
+      "en": "I wonder how to avoid mistakes.",
+      "pt": "Eu me pergunto como evitar erros."
     }
   ],
   "tags": {
@@ -1830,5 +1842,5 @@
     "ton": "hard",
     "juice": "known"
   },
-  "timestamp": "2026-02-17T02:40:19.221Z"
+  "timestamp": "2026-02-18T15:49:19.341Z"
 }
