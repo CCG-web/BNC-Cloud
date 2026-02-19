@@ -1681,6 +1681,22 @@
     {
       "en": "He will throw the ball to the other division.",
       "pt": "Ele vai lançar a bola para a outra divisão."
+    },
+    {
+      "en": "The king followed the procedure strictly.",
+      "pt": "O rei seguiu o procedimento rigorosamente."
+    },
+    {
+      "en": "I assume the oil price will rise soon.",
+      "pt": "Eu suponho que o preço do petróleo vai subir em breve."
+    },
+    {
+      "en": "Obviously, this is not the appropriate time to argue.",
+      "pt": "Obviamente, este não é o momento apropriado para discutir."
+    },
+    {
+      "en": "Under these circumstances, the military must act carefully.",
+      "pt": "Nessas circunstâncias, os militares devem agir com cuidado."
     }
   ],
   "tags": {
@@ -1898,5 +1914,5 @@
     "ton": "hard",
     "juice": "known"
   },
-  "timestamp": "2026-02-18T15:57:18.627Z"
+  "timestamp": "2026-02-19T01:02:35.980Z"
 }
