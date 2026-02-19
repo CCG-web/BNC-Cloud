@@ -1717,6 +1717,30 @@
     {
       "en": "The client works in the technology sector.",
       "pt": "O cliente trabalha no setor de tecnologia."
+    },
+    {
+      "en": "He had to admit he chose the wrong direction.",
+      "pt": "Ele teve que admitir que escolheu a direção errada."
+    },
+    {
+      "en": "They will replace the basic system next year.",
+      "pt": "Eles vão substituir o sistema básico no próximo ano."
+    },
+    {
+      "en": "This instance was a successful example of teamwork.",
+      "pt": "Esta instância foi um exemplo bem-sucedido de trabalho em equipe."
+    },
+    {
+      "en": "It’s okay to reflect before making a decision.",
+      "pt": "Está tudo bem refletir antes de tomar uma decisão."
+    },
+    {
+      "en": "It is difficult to measure someone's attitude.",
+      "pt": "É difícil medir a atitude de alguém."
+    },
+    {
+      "en": "Protect yourself from disease by washing your hands.",
+      "pt": "Proteja-se de doenças lavando as mãos."
     }
   ],
   "tags": {
@@ -1934,5 +1958,5 @@
     "ton": "hard",
     "juice": "known"
   },
-  "timestamp": "2026-02-19T01:05:49.889Z"
+  "timestamp": "2026-02-19T01:08:50.378Z"
 }
