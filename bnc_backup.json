@@ -1773,6 +1773,14 @@
     {
       "en": "The journalist will fly to the city to reveal the truth.",
       "pt": "O jornalista vai voar para a cidade para revelar a verdade."
+    },
+    {
+      "en": "The student finished half of the test in ten minutes.",
+      "pt": "O estudante terminou metade da prova em dez minutos."
+    },
+    {
+      "en": "She speaks half of the language fluently.",
+      "pt": "Ela fala metade do idioma fluentemente."
     }
   ],
   "tags": {
@@ -1858,7 +1866,6 @@
     "private": "known",
     "computer": "known",
     "scheme": "known",
-    "language": "known",
     "theory": "known",
     "poor": "known",
     "achieve": "known",
@@ -1955,7 +1962,6 @@
     "themselves": "hard",
     "therefore": "hard",
     "staff": "hard",
-    "student": "known",
     "ensure": "hard",
     "argue": "hard",
     "normal": "known",
@@ -1990,5 +1996,5 @@
     "ton": "hard",
     "juice": "known"
   },
-  "timestamp": "2026-02-20T13:42:27.485Z"
+  "timestamp": "2026-02-20T13:44:25.187Z"
 }
