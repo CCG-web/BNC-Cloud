@@ -1781,6 +1781,26 @@
     {
       "en": "She speaks half of the language fluently.",
       "pt": "Ela fala metade do idioma fluentemente."
+    },
+    {
+      "en": "Maybe she has the ability to solve the problem.",
+      "pt": "Talvez ela tenha a habilidade de resolver o problema."
+    },
+    {
+      "en": "They operate the machine after good advice.",
+      "pt": "Eles operam a máquina após um bom conselho."
+    },
+    {
+      "en": "The institution helped them discover new talent.",
+      "pt": "A instituição ajudou eles a descobrir um novo talento."
+    },
+    {
+      "en": "The pupil touched the surface carefully.",
+      "pt": "O aluno tocou a superfície com cuidado."
+    },
+    {
+      "en": "They refuse to prevent the problem.",
+      "pt": "Eles se recusam a prevenir o problema."
     }
   ],
   "tags": {
@@ -1996,5 +2016,5 @@
     "ton": "hard",
     "juice": "known"
   },
-  "timestamp": "2026-02-20T13:44:25.187Z"
+  "timestamp": "2026-02-22T02:14:57.542Z"
 }
