@@ -1849,6 +1849,30 @@
     {
       "en": "The parent bought a piece of land.",
       "pt": "O pai/mãe comprou um pedaço de terra."
+    },
+    {
+      "en": "The white flag signals a peaceful situation.",
+      "pt": "A bandeira branca sinaliza uma situação pacífica."
+    },
+    {
+      "en": "They have a common relation through work.",
+      "pt": "Eles têm uma relação em comum através do trabalho."
+    },
+    {
+      "en": "I accidentally break the vase yesterday.",
+      "pt": "Eu quebrei o vaso acidentalmente ontem."
+    },
+    {
+      "en": "She checks her account through the window.",
+      "pt": "Ela verifica sua conta pela janela."
+    },
+    {
+      "en": "I explain the plan while they wait.",
+      "pt": "Eu explico o plano enquanto eles esperam."
+    },
+    {
+      "en": "I usually notice a small difference.",
+      "pt": "Eu geralmente percebo uma pequena diferença."
     }
   ],
   "tags": {
@@ -1875,19 +1899,13 @@
     "accept": "easy",
     "art": "easy",
     "land": "easy",
-    "white": "known",
-    "situation": "known",
-    "relation": "known",
-    "common": "known",
-    "strong": "known",
-    "break": "known",
-    "yesterday": "known",
-    "window": "known",
-    "account": "known",
-    "explain": "known",
-    "wait": "known",
-    "usually": "known",
-    "difference": "known",
+    "situation": "easy",
+    "common": "easy",
+    "strong": "easy",
+    "yesterday": "easy",
+    "account": "easy",
+    "wait": "easy",
+    "difference": "easy",
     "material": "known",
     "air": "known",
     "wife": "known",
@@ -2052,5 +2070,5 @@
     "juice": "known",
     "special": "easy"
   },
-  "timestamp": "2026-02-22T02:25:34.505Z"
+  "timestamp": "2026-02-22T02:29:15.826Z"
 }
