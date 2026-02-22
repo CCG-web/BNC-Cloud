@@ -1841,6 +1841,14 @@
     {
       "en": "Sometimes we accept things we cannot change.",
       "pt": "Às vezes aceitamos coisas que não podemos mudar."
+    },
+    {
+      "en": "The town is famous for its art.",
+      "pt": "A cidade é famosa por sua arte."
+    },
+    {
+      "en": "The parent bought a piece of land.",
+      "pt": "O pai/mãe comprou um pedaço de terra."
     }
   ],
   "tags": {
@@ -1864,11 +1872,9 @@
     "else": "easy",
     "sell": "easy",
     "building": "easy",
-    "accept": "known",
-    "town": "known",
-    "art": "known",
-    "parent": "known",
-    "land": "known",
+    "accept": "easy",
+    "art": "easy",
+    "land": "easy",
     "white": "known",
     "situation": "known",
     "relation": "known",
@@ -2046,5 +2052,5 @@
     "juice": "known",
     "special": "easy"
   },
-  "timestamp": "2026-02-22T02:23:39.544Z"
+  "timestamp": "2026-02-22T02:25:34.505Z"
 }
