@@ -1801,6 +1801,46 @@
     {
       "en": "They refuse to prevent the problem.",
       "pt": "Eles se recusam a prevenir o problema."
+    },
+    {
+      "en": "The special flower will die without water.",
+      "pt": "A flor especial vai morrer sem água."
+    },
+    {
+      "en": "She particularly enjoys international events.",
+      "pt": "Ela gosta particularmente de eventos internacionais."
+    },
+    {
+      "en": "The department supports effective management.",
+      "pt": "O departamento apoia uma gestão eficaz."
+    },
+    {
+      "en": "Her story can draw hope from others.",
+      "pt": "A história dela pode atrair esperança dos outros."
+    },
+    {
+      "en": "They create a new product every year.",
+      "pt": "Eles criam um novo produto todo ano."
+    },
+    {
+      "en": "The evidence was found near his foot.",
+      "pt": "A evidência foi encontrada perto do pé dele."
+    },
+    {
+      "en": "The boy enjoys playing the game.",
+      "pt": "O menino gosta de jogar o jogo."
+    },
+    {
+      "en": "They sell old coins at the bank.",
+      "pt": "Eles vendem moedas antigas no banco."
+    },
+    {
+      "en": "The event takes place in the building.",
+      "pt": "O evento acontece no prédio."
+    },
+    {
+      "en": "Sometimes we accept things we cannot change.",
+      "pt": "Às vezes aceitamos coisas que não podemos mudar."
     }
   ],
   "tags": {
@@ -1811,30 +1851,19 @@
     "rate": "hard",
     "subject": "hard",
     "towards": "hard",
-    "half": "known",
-    "walk": "known",
-    "die": "known",
-    "special": "known",
-    "international": "known",
-    "particularly": "known",
-    "department": "known",
-    "management": "known",
-    "draw": "known",
-    "hope": "known",
-    "product": "known",
-    "city": "known",
-    "create": "known",
-    "evidence": "known",
-    "foot": "known",
-    "clear": "known",
-    "boy": "known",
-    "game": "known",
-    "bank": "known",
-    "else": "known",
-    "sell": "known",
-    "event": "known",
-    "building": "known",
-    "sometimes": "known",
+    "half": "easy",
+    "walk": "easy",
+    "particularly": "easy",
+    "management": "easy",
+    "hope": "easy",
+    "city": "easy",
+    "create": "easy",
+    "foot": "easy",
+    "clear": "easy",
+    "game": "easy",
+    "else": "easy",
+    "sell": "easy",
+    "building": "easy",
     "accept": "known",
     "town": "known",
     "art": "known",
@@ -2014,7 +2043,8 @@
     "equilibrium": "hard",
     "trader": "hard",
     "ton": "hard",
-    "juice": "known"
+    "juice": "known",
+    "special": "easy"
   },
-  "timestamp": "2026-02-22T02:14:57.542Z"
+  "timestamp": "2026-02-22T02:23:39.544Z"
 }
