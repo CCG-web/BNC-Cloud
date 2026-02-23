@@ -1873,6 +1873,34 @@
     {
       "en": "I usually notice a small difference.",
       "pt": "Eu geralmente percebo uma pequena diferença."
+    },
+    {
+      "en": "The material needs air to dry properly.",
+      "pt": "O material precisa de ar para secar corretamente."
+    },
+    {
+      "en": "My wife found a great dress on sale.",
+      "pt": "Minha esposa encontrou um ótimo vestido em promoção."
+    },
+    {
+      "en": "Their relationship brought light into his life.",
+      "pt": "O relacionamento deles trouxe luz para a vida dele."
+    },
+    {
+      "en": "I truly care about someone special.",
+      "pt": "Eu realmente me importo com alguém especial."
+    },
+    {
+      "en": "She will certainly cut the paper carefully.",
+      "pt": "Ela certamente cortará o papel com cuidado."
+    },
+    {
+      "en": "The twins grow in similar ways.",
+      "pt": "Os gêmeos crescem de maneiras semelhantes."
+    },
+    {
+      "en": "The quality of public services depends on tax revenue.",
+      "pt": "A qualidade dos serviços públicos depende da arrecadação de impostos."
     }
   ],
   "tags": {
@@ -1906,20 +1934,13 @@
     "account": "easy",
     "wait": "easy",
     "difference": "easy",
-    "material": "known",
-    "air": "known",
-    "wife": "known",
-    "sale": "known",
-    "relationship": "known",
-    "light": "known",
-    "care": "known",
-    "someone": "known",
-    "certainly": "known",
-    "cut": "known",
-    "grow": "known",
-    "similar": "known",
-    "story": "known",
-    "quality": "known",
+    "air": "easy",
+    "sale": "easy",
+    "light": "easy",
+    "someone": "easy",
+    "cut": "easy",
+    "similar": "easy",
+    "story": "easy",
     "tax": "known",
     "worker": "known",
     "nature": "known",
@@ -2070,5 +2091,5 @@
     "juice": "known",
     "special": "easy"
   },
-  "timestamp": "2026-02-22T02:40:12.749Z"
+  "timestamp": "2026-02-23T14:45:37.069Z"
 }
