@@ -1921,6 +1921,22 @@
     {
       "en": "This box simply contains old photos.",
       "pt": "Esta caixa simplesmente contém fotos antigas."
+    },
+    {
+      "en": "I especially like short workouts in the morning.",
+      "pt": "Eu gosto especialmente de treinos curtos pela manhã."
+    },
+    {
+      "en": "Please do not share personal details online.",
+      "pt": "Por favor, não compartilhe detalhes pessoais online."
+    },
+    {
+      "en": "He shared a personal detail with me.",
+      "pt": "Ele compartilhou um detalhe pessoal comigo."
+    },
+    {
+      "en": "The model kept her life private.",
+      "pt": "A modelo manteve sua vida privada."
     }
   ],
   "tags": {
@@ -1967,12 +1983,8 @@
     "bed": "easy",
     "movement": "easy",
     "contain": "easy",
-    "especially": "known",
-    "short": "known",
-    "personal": "known",
-    "detail": "known",
-    "model": "known",
-    "private": "known",
+    "short": "easy",
+    "private": "easy",
     "computer": "known",
     "scheme": "known",
     "theory": "known",
@@ -2106,5 +2118,5 @@
     "juice": "known",
     "special": "easy"
   },
-  "timestamp": "2026-02-23T14:50:32.861Z"
+  "timestamp": "2026-02-23T14:57:08.347Z"
 }
