@@ -1901,6 +1901,26 @@
     {
       "en": "The quality of public services depends on tax revenue.",
       "pt": "A qualidade dos serviços públicos depende da arrecadação de impostos."
+    },
+    {
+      "en": "The worker enjoys being close to nature.",
+      "pt": "O trabalhador gosta de estar perto da natureza."
+    },
+    {
+      "en": "A clear structure is necessary for success.",
+      "pt": "Uma estrutura clara é necessária para o sucesso."
+    },
+    {
+      "en": "The hotel has a central room with a large bed.",
+      "pt": "O hotel tem um quarto central com uma cama grande."
+    },
+    {
+      "en": "The union organized a peaceful movement for better rights.",
+      "pt": "O sindicato organizou um movimento pacífico por melhores direitos."
+    },
+    {
+      "en": "This box simply contains old photos.",
+      "pt": "Esta caixa simplesmente contém fotos antigas."
     }
   ],
   "tags": {
@@ -1941,17 +1961,12 @@
     "cut": "easy",
     "similar": "easy",
     "story": "easy",
-    "tax": "known",
-    "worker": "known",
-    "nature": "known",
-    "structure": "known",
-    "necessary": "known",
-    "central": "known",
-    "bed": "known",
-    "union": "known",
-    "movement": "known",
-    "simply": "known",
-    "contain": "known",
+    "tax": "easy",
+    "nature": "easy",
+    "necessary": "easy",
+    "bed": "easy",
+    "movement": "easy",
+    "contain": "easy",
     "especially": "known",
     "short": "known",
     "personal": "known",
@@ -2091,5 +2106,5 @@
     "juice": "known",
     "special": "easy"
   },
-  "timestamp": "2026-02-23T14:45:37.069Z"
+  "timestamp": "2026-02-23T14:49:02.503Z"
 }
