@@ -1937,6 +1937,38 @@
     {
       "en": "The model kept her life private.",
       "pt": "A modelo manteve sua vida privada."
+    },
+    {
+      "en": "The computer detected a hidden scheme.",
+      "pt": "O computador detectou um esquema oculto."
+    },
+    {
+      "en": "Her theory helped the team achieve success.",
+      "pt": "A teoria dela ajudou a equipe a alcançar o sucesso."
+    },
+    {
+      "en": "The poor officer refused to give up.",
+      "pt": "O oficial pobre se recusou a desistir."
+    },
+    {
+      "en": "The director is in charge of the project.",
+      "pt": "O diretor está encarregado do projeto."
+    },
+    {
+      "en": "She learned to drive a foreign car.",
+      "pt": "Ela aprendeu a dirigir um carro estrangeiro."
+    },
+    {
+      "en": "His son saved a small amount of money.",
+      "pt": "O filho dele economizou uma pequena quantia de dinheiro."
+    },
+    {
+      "en": "The operation did not fail.",
+      "pt": "A operação não falhou."
+    },
+    {
+      "en": "Every human deserves an opportunity to grow.",
+      "pt": "Todo ser humano merece uma oportunidade de crescer."
     }
   ],
   "tags": {
@@ -1985,21 +2017,13 @@
     "contain": "easy",
     "short": "easy",
     "private": "easy",
-    "computer": "known",
-    "scheme": "known",
-    "theory": "known",
-    "poor": "known",
-    "achieve": "known",
-    "officer": "known",
-    "charge": "known",
-    "director": "known",
-    "drive": "known",
-    "foreign": "known",
-    "amount": "known",
-    "son": "known",
-    "operation": "known",
-    "fail": "known",
-    "human": "known",
+    "scheme": "easy",
+    "achieve": "easy",
+    "officer": "easy",
+    "director": "easy",
+    "foreign": "easy",
+    "son": "easy",
+    "fail": "easy",
     "opportunity": "known",
     "simple": "known",
     "leader": "known",
@@ -2118,5 +2142,5 @@
     "juice": "known",
     "special": "easy"
   },
-  "timestamp": "2026-02-23T14:57:08.347Z"
+  "timestamp": "2026-02-25T01:20:46.574Z"
 }
