@@ -3181,6 +3181,974 @@
     {
       "en": "The pub sells fruit juice.",
       "pt": "O pub vende suco de frutas."
+    },
+    {
+      "en": "Read this passage to illustrate the point.",
+      "pt": "Leia esta passagem para ilustrar o ponto."
+    },
+    {
+      "en": "Ride your bike to the restaurant.",
+      "pt": "Ande de bicicleta até o restaurante."
+    },
+    {
+      "en": "It is vital to burn the trash.",
+      "pt": "É vital queimar o lixo."
+    },
+    {
+      "en": "The map is on the device.",
+      "pt": "O mapa está no dispositivo."
+    },
+    {
+      "en": "We estimate they will conduct a test.",
+      "pt": "Nós estimamos que eles conduzirão um teste."
+    },
+    {
+      "en": "We derive our name from the east.",
+      "pt": "Nós derivamos nosso nome do leste."
+    },
+    {
+      "en": "I advise you to advance carefully.",
+      "pt": "Eu aconselho você a avançar com cuidado."
+    },
+    {
+      "en": "This motor will satisfy your needs.",
+      "pt": "Este motor satisfará suas necessidades."
+    },
+    {
+      "en": "The winner went through hell.",
+      "pt": "O vencedor passou por um inferno."
+    },
+    {
+      "en": "They effectively handled the incident.",
+      "pt": "Eles lidaram efetivamente com o incidente."
+    },
+    {
+      "en": "The leaf is a representation of nature.",
+      "pt": "A folha é uma representação da natureza."
+    },
+    {
+      "en": "Wash the car near the border.",
+      "pt": "Lave o carro perto da fronteira."
+    },
+    {
+      "en": "The prospect of a blow is scary.",
+      "pt": "A perspectiva de um golpe é assustadora."
+    },
+    {
+      "en": "The trip requires careful observation.",
+      "pt": "A viagem requer observação cuidadosa."
+    },
+    {
+      "en": "The ancient gate is closed.",
+      "pt": "O portão antigo está fechado."
+    },
+    {
+      "en": "Try to persuade the elderly man.",
+      "pt": "Tente persuadir o homem idoso."
+    },
+    {
+      "en": "The overall design is rare.",
+      "pt": "O design geral é raro."
+    },
+    {
+      "en": "Circle the word in the index.",
+      "pt": "Circule a palavra no índice."
+    },
+    {
+      "en": "The drawing is a new creation.",
+      "pt": "O desenho é uma nova criação."
+    },
+    {
+      "en": "Can anybody see the external damage?",
+      "pt": "Alguém consegue ver o dano externo?"
+    },
+    {
+      "en": "He is capable of a good shot.",
+      "pt": "Ele é capaz de um bom tiro."
+    },
+    {
+      "en": "I request a good impression.",
+      "pt": "Eu peço uma boa impressão."
+    },
+    {
+      "en": "My neighbour works at the theatre.",
+      "pt": "Meu vizinho trabalha no teatro."
+    },
+    {
+      "en": "Look beneath the mechanism.",
+      "pt": "Olhe sob o mecanismo."
+    },
+    {
+      "en": "The defendant is very lean.",
+      "pt": "O réu é muito magro."
+    },
+    {
+      "en": "Do not slip in this atmosphere.",
+      "pt": "Não escorregue nesta atmosfera."
+    },
+    {
+      "en": "Accompany me on this wonderful journey.",
+      "pt": "Acompanhe-me nesta jornada maravilhosa."
+    },
+    {
+      "en": "Do not earn an enemy.",
+      "pt": "Não ganhe um inimigo."
+    },
+    {
+      "en": "The engineering plans are on the desk.",
+      "pt": "Os planos de engenharia estão na mesa."
+    },
+    {
+      "en": "The panel made a clear distinction.",
+      "pt": "O painel fez uma distinção clara."
+    },
+    {
+      "en": "The deputy enforces discipline.",
+      "pt": "O vice impõe disciplina."
+    },
+    {
+      "en": "The married couple has plenty of food.",
+      "pt": "O casal casado tem muita comida."
+    },
+    {
+      "en": "This establishment follows the new fashion.",
+      "pt": "Este estabelecimento segue a nova moda."
+    },
+    {
+      "en": "The entire roof is leaking.",
+      "pt": "O telhado inteiro está vazando."
+    },
+    {
+      "en": "It is a secondary tear.",
+      "pt": "É um rasgo secundário."
+    },
+    {
+      "en": "The finding helps child welfare.",
+      "pt": "A descoberta ajuda o bem-estar infantil."
+    },
+    {
+      "en": "Attach the typical document here.",
+      "pt": "Anexe o documento típico aqui."
+    },
+    {
+      "en": "Meanwhile, the leadership changed.",
+      "pt": "Enquanto isso, a liderança mudou."
+    },
+    {
+      "en": "Religion is not open to negotiation.",
+      "pt": "A religião não está aberta a negociação."
+    },
+    {
+      "en": "Count the grey stones.",
+      "pt": "Conte as pedras cinzas."
+    },
+    {
+      "en": "Hence, everything is alright.",
+      "pt": "Portanto, tudo está bem."
+    },
+    {
+      "en": "The fuel came from the mine.",
+      "pt": "O combustível veio da mina."
+    },
+    {
+      "en": "A bad servant is a liability.",
+      "pt": "Um mau servo é uma responsabilidade."
+    },
+    {
+      "en": "I hate this constant noise.",
+      "pt": "Eu odeio esse barulho constante."
+    },
+    {
+      "en": "The shoe is a necessary expense.",
+      "pt": "O sapato é uma despesa necessária."
+    },
+    {
+      "en": "The vast field has good soil.",
+      "pt": "O vasto campo tem solo bom."
+    },
+    {
+      "en": "The origin of his broken nose is unknown.",
+      "pt": "A origem do seu nariz quebrado é desconhecida."
+    },
+    {
+      "en": "The lord bought a ticket.",
+      "pt": "O senhor comprou um ingresso."
+    },
+    {
+      "en": "The editor decided to switch the article.",
+      "pt": "O editor decidiu trocar o artigo."
+    },
+    {
+      "en": "They provided aid to the northern region.",
+      "pt": "Eles forneceram ajuda para a região norte."
+    },
+    {
+      "en": "Explain the significance of this channel.",
+      "pt": "Explique o significado deste canal."
+    },
+    {
+      "en": "The convention was very funny.",
+      "pt": "A convenção foi muito engraçada."
+    },
+    {
+      "en": "He has a severe bone injury.",
+      "pt": "Ele tem uma lesão óssea grave."
+    },
+    {
+      "en": "The iron gate blocked his vision.",
+      "pt": "O portão de ferro bloqueou a visão dele."
+    },
+    {
+      "en": "We travel via a somewhat dangerous road.",
+      "pt": "Nós viajamos por uma estrada um tanto perigosa."
+    },
+    {
+      "en": "This trend will cause a revolution.",
+      "pt": "Esta tendência causará uma revolução."
+    },
+    {
+      "en": "I have a terrible pain in my knee.",
+      "pt": "Eu tenho uma dor terrível no meu joelho."
+    },
+    {
+      "en": "Unfortunately, they will steal the car.",
+      "pt": "Infelizmente, eles vão roubar o carro."
+    },
+    {
+      "en": "The criminal waited for the signal.",
+      "pt": "O criminoso esperou pelo sinal."
+    },
+    {
+      "en": "This notion requires a comparison.",
+      "pt": "Esta noção requer uma comparação."
+    },
+    {
+      "en": "The academic outcome was bad.",
+      "pt": "O resultado acadêmico foi ruim."
+    },
+    {
+      "en": "I strongly suggest you surround the building.",
+      "pt": "Eu sugiro fortemente que você cerque o prédio."
+    },
+    {
+      "en": "Let us explore this great achievement.",
+      "pt": "Vamos explorar esta grande conquista."
+    },
+    {
+      "en": "It is an odd expectation.",
+      "pt": "É uma expectativa estranha."
+    },
+    {
+      "en": "The corporate leader became a prisoner.",
+      "pt": "O líder corporativo tornou-se um prisioneiro."
+    },
+    {
+      "en": "The disease spread rapidly in the southern city.",
+      "pt": "A doença se espalhou rapidamente na cidade do sul."
+    },
+    {
+      "en": "He walked amongst them and left afterwards.",
+      "pt": "Ele andou entre eles e saiu depois."
+    },
+    {
+      "en": "Every citizen must paint their house.",
+      "pt": "Todo cidadão deve pintar sua casa."
+    },
+    {
+      "en": "A permanent solution is not weak.",
+      "pt": "Uma solução permanente não é fraca."
+    },
+    {
+      "en": "We cover ourselves in plastic.",
+      "pt": "Nós nos cobrimos de plástico."
+    },
+    {
+      "en": "It is fundamental to connect them.",
+      "pt": "É fundamental conectá-los."
+    },
+    {
+      "en": "The plane reached its height.",
+      "pt": "O avião atingiu sua altura."
+    },
+    {
+      "en": "The opening lesson was good.",
+      "pt": "A lição de abertura foi boa."
+    },
+    {
+      "en": "I was similarly in shock.",
+      "pt": "Eu estava da mesma forma em choque."
+    },
+    {
+      "en": "The tenant fixed the rail.",
+      "pt": "O inquilino consertou o trilho."
+    },
+    {
+      "en": "I owe what was originally agreed.",
+      "pt": "Eu devo o que foi originalmente acordado."
+    },
+    {
+      "en": "It is somehow a minor issue.",
+      "pt": "É de alguma forma um problema menor."
+    },
+    {
+      "en": "Hear the knock and expect a negative answer.",
+      "pt": "Ouça a batida e espere uma resposta negativa."
+    },
+    {
+      "en": "Pursue the root of the problem.",
+      "pt": "Persiga a raiz do problema."
+    },
+    {
+      "en": "Inner peace is crucial.",
+      "pt": "A paz interior é crucial."
+    },
+    {
+      "en": "Occupy the area for independence.",
+      "pt": "Ocupe a área pela independência."
+    },
+    {
+      "en": "The proceeding involves the column.",
+      "pt": "O procedimento envolve a coluna."
+    },
+    {
+      "en": "The beauty is perfectly captured.",
+      "pt": "A beleza é perfeitamente capturada."
+    },
+    {
+      "en": "The struggle creates a gap.",
+      "pt": "A luta cria uma lacuna."
+    },
+    {
+      "en": "Stretch the limits of the database.",
+      "pt": "Estique os limites do banco de dados."
+    },
+    {
+      "en": "The stress affects the passenger.",
+      "pt": "O estresse afeta o passageiro."
+    },
+    {
+      "en": "The manufacturer set a boundary.",
+      "pt": "O fabricante definiu um limite."
+    },
+    {
+      "en": "It is a sharp rock formation.",
+      "pt": "É uma formação rochosa afiada."
+    },
+    {
+      "en": "The queen will not waste time.",
+      "pt": "A rainha não perderá tempo."
+    },
+    {
+      "en": "They virtually expand the market.",
+      "pt": "Eles expandem virtualmente o mercado."
+    },
+    {
+      "en": "He is a contemporary politician.",
+      "pt": "Ele é um político contemporâneo."
+    },
+    {
+      "en": "Win the championship in this territory.",
+      "pt": "Vença o campeonato neste território."
+    },
+    {
+      "en": "The inquiry is about this topic.",
+      "pt": "O inquérito é sobre este tópico."
+    },
+    {
+      "en": "The resident made a transaction.",
+      "pt": "O residente fez uma transação."
+    },
+    {
+      "en": "The parish has a new supporter.",
+      "pt": "A paróquia tem um novo apoiador."
+    },
+    {
+      "en": "It is a massive and unique building.",
+      "pt": "É um prédio enorme e único."
+    },
+    {
+      "en": "Ask for assistance during inflation.",
+      "pt": "Peça assistência durante a inflação."
+    },
+    {
+      "en": "The suit hides his true identity.",
+      "pt": "O terno esconde sua verdadeira identidade."
+    },
+    {
+      "en": "The parliamentary preparation is ready.",
+      "pt": "A preparação parlamentar está pronta."
+    },
+    {
+      "en": "They elect badly every year.",
+      "pt": "Eles elegem mal todos os anos."
+    },
+    {
+      "en": "The champion defeated cancer.",
+      "pt": "O campeão derrotou o câncer."
+    },
+    {
+      "en": "Exclude the old licence.",
+      "pt": "Exclua a licença antiga."
+    },
+    {
+      "en": "A minority eats breakfast here.",
+      "pt": "Uma minoria toma café da manhã aqui."
+    },
+    {
+      "en": "I appreciate every fan.",
+      "pt": "Eu aprecio cada fã."
+    },
+    {
+      "en": "The subsequent accommodation was worse.",
+      "pt": "A acomodação subsequente foi pior."
+    },
+    {
+      "en": "The brown book discusses democracy.",
+      "pt": "O livro marrom discute a democracia."
+    },
+    {
+      "en": "The king can taste the crown.",
+      "pt": "O rei pode provar a coroa."
+    },
+    {
+      "en": "Permit the buyer to enter.",
+      "pt": "Permita que o comprador entre."
+    },
+    {
+      "en": "The angry mob demanded a resolution.",
+      "pt": "A multidão furiosa exigiu uma resolução."
+    },
+    {
+      "en": "The wheel moved one metre.",
+      "pt": "A roda moveu-se um metro."
+    },
+    {
+      "en": "The clause mentions a water tank.",
+      "pt": "A cláusula menciona um tanque de água."
+    },
+    {
+      "en": "Engage the target while alive.",
+      "pt": "Engaje o alvo enquanto vivo."
+    },
+    {
+      "en": "I have a complaint about every inch.",
+      "pt": "Tenho uma reclamação sobre cada polegada."
+    },
+    {
+      "en": "Do not abandon the blame.",
+      "pt": "Não abandone a culpa."
+    },
+    {
+      "en": "This quote is yours.",
+      "pt": "Esta citação é sua."
+    },
+    {
+      "en": "The guilty man took a large quantity.",
+      "pt": "O homem culpado pegou uma grande quantidade."
+    },
+    {
+      "en": "He visited the eastern region prior to this.",
+      "pt": "Ele visitou a região leste antes disso."
+    },
+    {
+      "en": "The coat proves his involvement.",
+      "pt": "O casaco prova seu envolvimento."
+    },
+    {
+      "en": "Tension ruins your diet.",
+      "pt": "A tensão arruína sua dieta."
+    },
+    {
+      "en": "I rarely see such an enormous ship.",
+      "pt": "Raramente vejo um navio tão enorme."
+    },
+    {
+      "en": "The remaining time is significantly shorter.",
+      "pt": "O tempo restante é significativamente mais curto."
+    },
+    {
+      "en": "One glance can dominate the room.",
+      "pt": "Um olhar pode dominar a sala."
+    },
+    {
+      "en": "I naturally interpret it this way.",
+      "pt": "Eu naturalmente interpreto desta forma."
+    },
+    {
+      "en": "The frame needs an extension.",
+      "pt": "A moldura precisa de uma extensão."
+    },
+    {
+      "en": "The spokesman will mix the drinks.",
+      "pt": "O porta-voz misturará as bebidas."
+    },
+    {
+      "en": "Acknowledge the friendly wave.",
+      "pt": "Reconheça o aceno amigável."
+    },
+    {
+      "en": "Register under the new regime.",
+      "pt": "Registre-se sob o novo regime."
+    },
+    {
+      "en": "The fault caused a dispute.",
+      "pt": "A falha causou uma disputa."
+    },
+    {
+      "en": "Walk quietly on the grass.",
+      "pt": "Caminhe silenciosamente na grama."
+    },
+    {
+      "en": "Do not dismiss the decline.",
+      "pt": "Não descarte o declínio."
+    },
+    {
+      "en": "Complain about the late delivery.",
+      "pt": "Reclame sobre a entrega atrasada."
+    },
+    {
+      "en": "Shift the cargo to the port.",
+      "pt": "Mude a carga para o porto."
+    },
+    {
+      "en": "The beach has great depth.",
+      "pt": "A praia tem grande profundidade."
+    },
+    {
+      "en": "He is an unusual pilot.",
+      "pt": "Ele é um piloto incomum."
+    },
+    {
+      "en": "It is an obligation to test the gene.",
+      "pt": "É uma obrigação testar o gene."
+    },
+    {
+      "en": "The republic has a yellow flag.",
+      "pt": "A república tem uma bandeira amarela."
+    },
+    {
+      "en": "My dear friend is a shadow.",
+      "pt": "Meu querido amigo é uma sombra."
+    },
+    {
+      "en": "I can analyse the data anywhere.",
+      "pt": "Posso analisar os dados em qualquer lugar."
+    },
+    {
+      "en": "It is a long-term phrase.",
+      "pt": "É uma frase de longo prazo."
+    },
+    {
+      "en": "The lucky crew survived.",
+      "pt": "A tripulação sortuda sobreviveu."
+    },
+    {
+      "en": "I will convince him to restore it.",
+      "pt": "Eu o convencerei a restaurá-lo."
+    },
+    {
+      "en": "The engineer lives on the coast.",
+      "pt": "O engenheiro mora no litoral."
+    },
+    {
+      "en": "It relies heavily on extensive research.",
+      "pt": "Depende fortemente de pesquisas extensas."
+    },
+    {
+      "en": "I am glad to help the charity.",
+      "pt": "Fico feliz em ajudar a instituição de caridade."
+    },
+    {
+      "en": "I oppose and defend the law.",
+      "pt": "Eu me oponho e defendo a lei."
+    },
+    {
+      "en": "Alter the document to make an arrest.",
+      "pt": "Altere o documento para fazer uma prisão."
+    },
+    {
+      "en": "The framework needs your approval.",
+      "pt": "A estrutura precisa da sua aprovação."
+    },
+    {
+      "en": "Do not bother reading this novel.",
+      "pt": "Não se incomode em ler este romance."
+    },
+    {
+      "en": "I am surprised you accuse him.",
+      "pt": "Estou surpreso que você o acuse."
+    },
+    {
+      "en": "Restrict the foreign currency.",
+      "pt": "Restrinja a moeda estrangeira."
+    },
+    {
+      "en": "You possess a high moral standard.",
+      "pt": "Você possui um alto padrão moral."
+    },
+    {
+      "en": "Distinguish the type of protein.",
+      "pt": "Distinga o tipo de proteína."
+    },
+    {
+      "en": "I reckon you should touch it gently.",
+      "pt": "Eu acho que você deveria tocá-lo suavemente."
+    },
+    {
+      "en": "Incorporate the changes and proceed.",
+      "pt": "Incorpore as mudanças e prossiga."
+    },
+    {
+      "en": "I will assist you under stress.",
+      "pt": "Eu vou te ajudar sob estresse."
+    },
+    {
+      "en": "Justify this on my behalf.",
+      "pt": "Justifique isso em meu nome."
+    },
+    {
+      "en": "The councillor changed the setting.",
+      "pt": "O vereador mudou a configuração."
+    },
+    {
+      "en": "Command the maintenance team.",
+      "pt": "Comande a equipe de manutenção."
+    },
+    {
+      "en": "Read a poem on the stair.",
+      "pt": "Leia um poema no degrau."
+    },
+    {
+      "en": "Keep the secret in your chest.",
+      "pt": "Guarde o segredo em seu peito."
+    },
+    {
+      "en": "The restriction makes it less efficient.",
+      "pt": "A restrição o torna menos eficiente."
+    },
+    {
+      "en": "The suspect wore a black hat.",
+      "pt": "O suspeito usava um chapéu preto."
+    },
+    {
+      "en": "Stand firmly to stay healthy.",
+      "pt": "Fique firme para se manter saudável."
+    },
+    {
+      "en": "They occasionally construct new houses.",
+      "pt": "Eles ocasionalmente constroem novas casas."
+    },
+    {
+      "en": "This mode is very comfortable.",
+      "pt": "Este modo é muito confortável."
+    },
+    {
+      "en": "The camp will export goods.",
+      "pt": "O acampamento exportará mercadorias."
+    },
+    {
+      "en": "Form a partnership abroad.",
+      "pt": "Forme uma parceria no exterior."
+    },
+    {
+      "en": "His profession is in the countryside.",
+      "pt": "Sua profissão é no campo."
+    },
+    {
+      "en": "The boot is mostly leather.",
+      "pt": "A bota é majoritariamente de couro."
+    },
+    {
+      "en": "Implement the sudden change.",
+      "pt": "Implemente a mudança repentina."
+    },
+    {
+      "en": "Print the article to ruin his reputation.",
+      "pt": "Imprima o artigo para arruinar sua reputação."
+    },
+    {
+      "en": "I am keen to calculate the cost.",
+      "pt": "Estou ansioso para calcular o custo."
+    },
+    {
+      "en": "I guess it is a good recommendation.",
+      "pt": "Eu acho que é uma boa recomendação."
+    },
+    {
+      "en": "It is a conventional autumn day.",
+      "pt": "É um dia de outono convencional."
+    },
+    {
+      "en": "How you cope will constitute your character.",
+      "pt": "Como você lida constituirá seu caráter."
+    },
+    {
+      "en": "The poll is completely voluntary.",
+      "pt": "A pesquisa é totalmente voluntária."
+    },
+    {
+      "en": "The valuable item helped my recovery.",
+      "pt": "O item valioso ajudou na minha recuperação."
+    },
+    {
+      "en": "Cast a vote based on this premise.",
+      "pt": "Dê um voto com base nesta premissa."
+    },
+    {
+      "en": "Resolve the issue regularly.",
+      "pt": "Resolva o problema regularmente."
+    },
+    {
+      "en": "The critic offended the plaintiff.",
+      "pt": "O crítico ofendeu o querelante."
+    },
+    {
+      "en": "The ice destroyed the local agriculture.",
+      "pt": "O gelo destruiu a agricultura local."
+    },
+    {
+      "en": "The communist party wrote a constitution.",
+      "pt": "O partido comunista escreveu uma constituição."
+    },
+    {
+      "en": "The recession added a new layer of pain.",
+      "pt": "A recessão adicionou uma nova camada de dor."
+    },
+    {
+      "en": "A slight change had a dramatic effect.",
+      "pt": "Uma ligeira mudança teve um efeito dramático."
+    },
+    {
+      "en": "The golden rule is only temporary.",
+      "pt": "A regra de ouro é apenas temporária."
+    },
+    {
+      "en": "The suit will be ready shortly.",
+      "pt": "O terno estará pronto em breve."
+    },
+    {
+      "en": "They initially delayed my arrival.",
+      "pt": "Eles inicialmente atrasaram minha chegada."
+    },
+    {
+      "en": "The protest met strong resistance.",
+      "pt": "O protesto encontrou forte resistência."
+    },
+    {
+      "en": "Keep silent during the presentation.",
+      "pt": "Fique em silêncio durante a apresentação."
+    },
+    {
+      "en": "My soul defines my true self.",
+      "pt": "Minha alma define meu verdadeiro eu."
+    },
+    {
+      "en": "Do not feed my bad judgment.",
+      "pt": "Não alimente meu mau julgamento."
+    },
+    {
+      "en": "The shareholder has financial muscle.",
+      "pt": "O acionista tem força financeira."
+    },
+    {
+      "en": "The opposite of nature is pollution.",
+      "pt": "O oposto da natureza é a poluição."
+    },
+    {
+      "en": "His wealth was video-taped.",
+      "pt": "A riqueza dele foi gravada em vídeo."
+    },
+    {
+      "en": "View the kingdom from this perspective.",
+      "pt": "Veja o reino desta perspectiva."
+    },
+    {
+      "en": "The camera filmed the prince.",
+      "pt": "A câmera filmou o príncipe."
+    },
+    {
+      "en": "The illness started after the cake.",
+      "pt": "A doença começou depois do bolo."
+    },
+    {
+      "en": "Submit the meat for inspection.",
+      "pt": "Envie a carne para inspeção."
+    },
+    {
+      "en": "The ideal penalty is a fine.",
+      "pt": "A penalidade ideal é uma multa."
+    },
+    {
+      "en": "I will purchase a cold beer.",
+      "pt": "Eu vou comprar uma cerveja gelada."
+    },
+    {
+      "en": "Specify the amount of electricity.",
+      "pt": "Especifique a quantidade de eletricidade."
+    },
+    {
+      "en": "This bond is specifically for you.",
+      "pt": "Este título é especificamente para você."
+    },
+    {
+      "en": "The statutory rules apply to the laboratory.",
+      "pt": "As regras estatutárias se aplicam ao laboratório."
+    },
+    {
+      "en": "The federal captain gave an order.",
+      "pt": "O capitão federal deu uma ordem."
+    },
+    {
+      "en": "Pour the water deeply into the hole.",
+      "pt": "Despeje a água profundamente no buraco."
+    },
+    {
+      "en": "My boss is a strange creature.",
+      "pt": "Meu chefe é uma criatura estranha."
+    },
+    {
+      "en": "I urge you to locate the map.",
+      "pt": "Eu peço que você localize o mapa."
+    },
+    {
+      "en": "The struggle shortened his lifespan.",
+      "pt": "A luta encurtou sua expectativa de vida."
+    },
+    {
+      "en": "The guard watches over the valley.",
+      "pt": "O guarda vigia o vale."
+    },
+    {
+      "en": "Call the emergency line about the bomb.",
+      "pt": "Ligue para a linha de emergência sobre a bomba."
+    },
+    {
+      "en": "Every dollar improves efficiency.",
+      "pt": "Cada dólar melhora a eficiência."
+    },
+    {
+      "en": "Her mood will convert quickly.",
+      "pt": "O humor dela vai se converter rapidamente."
+    },
+    {
+      "en": "The habit of possession is bad.",
+      "pt": "O hábito de posse é ruim."
+    },
+    {
+      "en": "Subsequently, he made a purchase.",
+      "pt": "Posteriormente, ele fez uma compra."
+    },
+    {
+      "en": "The expansion happened gradually.",
+      "pt": "A expansão aconteceu gradualmente."
+    },
+    {
+      "en": "Competitive teams need co-operation.",
+      "pt": "Equipes competitivas precisam de cooperação."
+    },
+    {
+      "en": "This is an acceptable angle.",
+      "pt": "Este é um ângulo aceitável."
+    },
+    {
+      "en": "The cook caught a fish in the net.",
+      "pt": "O cozinheiro pegou um peixe na rede."
+    },
+    {
+      "en": "The ratio is one kiss per person.",
+      "pt": "A proporção é de um beijo por pessoa."
+    },
+    {
+      "en": "We must essentially preserve nature.",
+      "pt": "Devemos essencialmente preservar a natureza."
+    },
+    {
+      "en": "The wedding reflected her personality.",
+      "pt": "O casamento refletiu a personalidade dela."
+    },
+    {
+      "en": "The bishop is dependent on donations.",
+      "pt": "O bispo é dependente de doações."
+    },
+    {
+      "en": "The landscape is pure beauty.",
+      "pt": "A paisagem é pura beleza."
+    },
+    {
+      "en": "Lock the mirror in the safe.",
+      "pt": "Tranque o espelho no cofre."
+    },
+    {
+      "en": "The promotion is a symptom of success.",
+      "pt": "A promoção é um sintoma de sucesso."
+    },
+    {
+      "en": "Set aside the global issue.",
+      "pt": "Deixe de lado a questão global."
+    },
+    {
+      "en": "There is a tendency towards conservation.",
+      "pt": "Existe uma tendência à conservação."
+    },
+    {
+      "en": "Pack your qualification documents.",
+      "pt": "Empacote seus documentos de qualificação."
+    },
+    {
+      "en": "The governor arrived as expected.",
+      "pt": "O governador chegou conforme o esperado."
+    },
+    {
+      "en": "Invest early in the cycle.",
+      "pt": "Invista cedo no ciclo."
+    },
+    {
+      "en": "The gallery displays a new philosophy.",
+      "pt": "A galeria exibe uma nova filosofia."
+    },
+    {
+      "en": "The emotional intervention was necessary.",
+      "pt": "A intervenção emocional foi necessária."
+    },
+    {
+      "en": "The advertising shows a dance.",
+      "pt": "A propaganda mostra uma dança."
+    },
+    {
+      "en": "I predict he will smoke a cigarette.",
+      "pt": "Eu prevejo que ele fumará um cigarro."
+    },
+    {
+      "en": "Provide an adequate variable.",
+      "pt": "Forneça uma variável adequada."
+    },
+    {
+      "en": "He will retire with a good net income.",
+      "pt": "Ele vai se aposentar com uma boa renda líquida."
+    },
+    {
+      "en": "He goes pale with high frequency.",
+      "pt": "Ele fica pálido com alta frequência."
+    },
+    {
+      "en": "That guy moves furniture.",
+      "pt": "Aquele cara move móveis."
+    },
+    {
+      "en": "The administrative building is wooden.",
+      "pt": "O prédio administrativo é de madeira."
+    },
+    {
+      "en": "Provide input on this phenomenon.",
+      "pt": "Forneça informações sobre esse fenômeno."
+    },
+    {
+      "en": "It is surprising he wore a jacket.",
+      "pt": "É surpreendente que ele usasse uma jaqueta."
+    },
+    {
+      "en": "The actor gave a high kick.",
+      "pt": "O ator deu um chute alto."
     }
   ],
   "tags": {
@@ -3237,16 +4205,12 @@
     "son": "easy",
     "fail": "easy",
     "simple": "known",
-    "leader": "known",
     "production": "known",
     "kill": "known",
     "site": "known",
     "love": "known",
     "benefit": "known",
-    "animal": "known",
-    "standard": "known",
     "date": "known",
-    "hard": "known",
     "hair": "known",
     "population": "known",
     "pattern": "known",
@@ -3260,12 +4224,10 @@
     "list": "known",
     "final": "known",
     "choice": "known",
-    "couple": "known",
     "step": "known",
     "following": "known",
     "thank": "known",
     "introduce": "known",
-    "enter": "known",
     "space": "known",
     "pull": "known",
     "association": "known",
@@ -3277,7 +4239,6 @@
     "news": "known",
     "difficulty": "known",
     "modern": "known",
-    "region": "known",
     "current": "known",
     "legal": "known",
     "energy": "known",
@@ -3337,7 +4298,9 @@
     "equilibrium": "hard",
     "trader": "hard",
     "ton": "hard",
-    "special": "easy"
+    "special": "easy",
+    "hard": "known",
+    "animal": "known"
   },
-  "timestamp": "2026-02-25T02:53:02.695Z"
+  "timestamp": "2026-02-25T03:01:12.157Z"
 }
