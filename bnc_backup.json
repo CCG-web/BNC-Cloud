@@ -1969,6 +1969,186 @@
     {
       "en": "Every human deserves an opportunity to grow.",
       "pt": "Todo ser humano merece uma oportunidade de crescer."
+    },
+    {
+      "en": "They contain a great advantage.",
+      "pt": "Eles contêm uma grande vantagem."
+    },
+    {
+      "en": "I teach in the dark.",
+      "pt": "Eu ensino no escuro."
+    },
+    {
+      "en": "The blood brings back a memory.",
+      "pt": "O sangue traz de volta uma memória."
+    },
+    {
+      "en": "The majority needs variety.",
+      "pt": "A maioria precisa de variedade."
+    },
+    {
+      "en": "We depend on the competition.",
+      "pt": "Nós dependemos da competição."
+    },
+    {
+      "en": "Get access to hit the target.",
+      "pt": "Obtenha acesso para atingir o alvo."
+    },
+    {
+      "en": "This stone is very useful.",
+      "pt": "Esta pedra é muito útil."
+    },
+    {
+      "en": "They will attack the bar.",
+      "pt": "Eles vão atacar o bar."
+    },
+    {
+      "en": "The fish opened its mouth.",
+      "pt": "O peixe abriu a boca."
+    },
+    {
+      "en": "This will easily enable growth.",
+      "pt": "Isso permitirá facilmente o crescimento."
+    },
+    {
+      "en": "Traditional methods cause trouble.",
+      "pt": "Métodos tradicionais causam problemas."
+    },
+    {
+      "en": "Send the payment by post.",
+      "pt": "Envie o pagamento pelo correio."
+    },
+    {
+      "en": "The lady rules the county.",
+      "pt": "A senhora governa o condado."
+    },
+    {
+      "en": "I realise I need a holiday.",
+      "pt": "Eu percebo que preciso de férias."
+    },
+    {
+      "en": "The chair has historical importance.",
+      "pt": "A cadeira tem importância histórica."
+    },
+    {
+      "en": "Read the article about the facility.",
+      "pt": "Leia o artigo sobre a instalação."
+    },
+    {
+      "en": "Analyze the object in context.",
+      "pt": "Analise o objeto no contexto."
+    },
+    {
+      "en": "Direct them here immediately.",
+      "pt": "Direcione-os para cá imediatamente."
+    },
+    {
+      "en": "The collection is a good reference.",
+      "pt": "A coleção é uma boa referência."
+    },
+    {
+      "en": "This is an interesting card.",
+      "pt": "Este é um cartão interessante."
+    },
+    {
+      "en": "He spends considerable time watching television.",
+      "pt": "Ele passa um tempo considerável assistindo televisão."
+    },
+    {
+      "en": "We must extend our communication.",
+      "pt": "Devemos estender nossa comunicação."
+    },
+    {
+      "en": "The agency requires physical fitness.",
+      "pt": "A agência exige aptidão física."
+    },
+    {
+      "en": "The sun helps this species.",
+      "pt": "O sol ajuda esta espécie."
+    },
+    {
+      "en": "The official denied the possibility.",
+      "pt": "O oficial negou a possibilidade."
+    },
+    {
+      "en": "The second speaker is ready.",
+      "pt": "O segundo palestrante está pronto."
+    },
+    {
+      "en": "I laugh about my weight.",
+      "pt": "Eu rio do meu peso."
+    },
+    {
+      "en": "Who is responsible for this document?",
+      "pt": "Quem é responsável por este documento?"
+    },
+    {
+      "en": "Hot water is the solution.",
+      "pt": "Água quente é a solução."
+    },
+    {
+      "en": "I recognise this organization.",
+      "pt": "Eu reconheço esta organização."
+    },
+    {
+      "en": "Push against the opposition.",
+      "pt": "Pressione contra a oposição."
+    },
+    {
+      "en": "This option is worth it.",
+      "pt": "Esta opção vale a pena."
+    },
+    {
+      "en": "Define the concept of stock.",
+      "pt": "Defina o conceito de ação."
+    },
+    {
+      "en": "Use your influence on this occasion.",
+      "pt": "Use sua influência nesta ocasião."
+    },
+    {
+      "en": "The software will eventually load.",
+      "pt": "O software eventualmente carregará."
+    },
+    {
+      "en": "I highly recommend the exchange.",
+      "pt": "Eu recomendo fortemente a troca."
+    },
+    {
+      "en": "The lack of water made him shake.",
+      "pt": "A falta de água o fez tremer."
+    },
+    {
+      "en": "The concept of blue is universal.",
+      "pt": "O conceito de azul é universal."
+    },
+    {
+      "en": "The star spoke on the radio.",
+      "pt": "A estrela falou no rádio."
+    },
+    {
+      "en": "Trust no-one in this arrangement.",
+      "pt": "Não confie em ninguém neste arranjo."
+    },
+    {
+      "en": "Examine the bird carefully.",
+      "pt": "Examine o pássaro cuidadosamente."
+    },
+    {
+      "en": "The band wore green hats.",
+      "pt": "A banda usava chapéus verdes."
+    },
+    {
+      "en": "Tell me your sex and lift your finger.",
+      "pt": "Diga-me o seu sexo e levante o dedo."
+    },
+    {
+      "en": "I was independent in the past.",
+      "pt": "Eu era independente no passado."
+    },
+    {
+      "en": "Send the equipment to the north.",
+      "pt": "Envie o equipamento para o norte."
     }
   ],
   "tags": {
@@ -2024,10 +2204,8 @@
     "foreign": "easy",
     "son": "easy",
     "fail": "easy",
-    "opportunity": "known",
     "simple": "known",
     "leader": "known",
-    "share": "known",
     "production": "known",
     "kill": "known",
     "site": "known",
@@ -2048,8 +2226,6 @@
     "individual": "known",
     "size": "known",
     "basis": "known",
-    "success": "known",
-    "wrong": "known",
     "round": "known",
     "list": "known",
     "final": "known",
@@ -2059,7 +2235,6 @@
     "step": "known",
     "following": "known",
     "thank": "known",
-    "machine": "known",
     "introduce": "known",
     "enter": "known",
     "space": "known",
@@ -2082,7 +2257,6 @@
     "degree": "known",
     "mile": "known",
     "means": "known",
-    "growth": "known",
     "principle": "known",
     "analysis": "known",
     "sound": "known",
@@ -2093,7 +2267,6 @@
     "function": "known",
     "behaviour": "known",
     "garden": "known",
-    "technology": "known",
     "style": "known",
     "science": "known",
     "compare": "known",
@@ -2110,7 +2283,6 @@
     "ensure": "hard",
     "argue": "hard",
     "normal": "known",
-    "quickly": "known",
     "army": "known",
     "forget": "known",
     "station": "known",
@@ -2130,7 +2302,6 @@
     "fight": "known",
     "leg": "known",
     "title": "known",
-    "hotel": "known",
     "operational": "hard",
     "incur": "hard",
     "parallel": "hard",
@@ -2142,5 +2313,5 @@
     "juice": "known",
     "special": "easy"
   },
-  "timestamp": "2026-02-25T01:20:46.574Z"
+  "timestamp": "2026-02-25T02:40:11.199Z"
 }
